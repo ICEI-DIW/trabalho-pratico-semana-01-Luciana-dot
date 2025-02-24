@@ -7,7 +7,9 @@ Nome: Luciana Gomes Soares Caldas De Morais
 Matricula: 880631
 
 ## Tela de inspeção com navegador
+<img src=imagem"![alt text](<Captura de tela 2025-02-24 153408.png>)">
 
 
 ## Tela de projeto no Replit
+<img src=imagem"![alt text](<Captura de tela 2025-02-24 154625.png>)">
 
