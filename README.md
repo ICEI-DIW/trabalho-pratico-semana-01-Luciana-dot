@@ -3,13 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Luciana Gomes Soares caldas de Morais
-Matricula: 885100 
+Nome: 
+Matricula: 
 
 ## Tela de inspeção com navegador
-<img src=imagem"![alt text](image-1.png)">
 
 
 ## Tela de projeto no Replit
-<img src=imagem"![alt text](image.png)">
 
